@@ -9,6 +9,7 @@ Sova is a live coding environment developed by a small team of researchers and m
 | [Sova](https://github.com/sova-org/Sova) | Live coding environment |
 | [Docs](https://github.com/sova-org/sova-doc) | Documentation website |
 | [Doux](https://github.com/sova-org/doux) | Audio engine |
+| [hydra-rust](https://github.com/sova-org/hydra-rust) | Port of hydra using Rhai |
 
 ## Contributing
 
